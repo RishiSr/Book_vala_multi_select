@@ -3,10 +3,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-## Screenshots
-
-![App Screenshot](https://drive.google.com/file/d/14VlPEQySgPszWB88Dw2IZFS7C6ZVT5pR/view?usp=share_link)
-
 
 ## Available Scripts
 
